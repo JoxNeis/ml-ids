@@ -1,0 +1,6 @@
+flowchart LR
+    A[(Database AWS)] --> B[Unduh Dataset CSE-CIC-IDS2018 dari AWS]
+    B --> C[Filter hanya file berformat CSV]
+    C --> D[Gabungkan dan susun seluruh file CSV ke dalam satu folder]
+    D --> E[Konversi file CSV menjadi format Parquet]
+    E --> F[Gunakan file Parquet untuk pengembangan model]

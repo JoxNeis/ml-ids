@@ -1,0 +1,28 @@
+flowchart TD
+    A([Mulai])
+
+    B[(Dataset CSE-CIC-IDS2018)]
+    C[/File CSV/]
+    D[Proses Pembacaan File CSV]
+    E{Jumlah baris<br/>> 100.000?}
+    F[Konversi 100.000 baris<br/>ke File Parquet]
+    G[Simpan File Parquet]
+    H[Proses Sisa Baris]
+    I[Konversi Sisa Baris<br/>ke File Parquet]
+    J[(Folder Dataset Parquet)]
+    K([Selesai])
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+
+    E -- Ya --> F
+    F --> G
+    G --> E
+    G --> J
+
+    E -- Tidak --> H
+    H --> I
+    I --> J
+    J --> K

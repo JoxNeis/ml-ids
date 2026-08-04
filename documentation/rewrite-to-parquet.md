@@ -1,0 +1,185 @@
+```bash
+C:\Python314\python.exe C:\Projects\MLIDS\chunking.py 
+Converting Friday-02-03-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Friday-02-03-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Friday-16-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Friday-16-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Friday-23-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Friday-23-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Thuesday-20-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00012.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00013.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00014.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00015.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00016.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00017.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00018.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00019.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00020.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00021.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00022.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00023.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00024.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00025.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00026.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00027.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00028.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00029.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00030.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00031.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00032.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00033.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00034.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00035.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00036.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00037.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00038.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00039.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00040.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00041.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00042.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00043.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00044.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00045.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00046.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00047.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00048.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00049.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00050.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00051.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00052.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00053.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00054.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00055.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00056.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00057.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00058.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00059.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00060.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00061.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00062.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00063.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00064.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00065.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00066.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00067.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00068.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00069.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00070.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00071.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00072.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00073.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00074.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00075.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00076.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00077.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00078.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00079.parquet
+  Saved parquet\Thuesday-20-02-2018_TrafficForML_CICFlowMeter_00080.parquet
+Converting Thursday-01-03-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Thursday-01-03-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Thursday-01-03-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Thursday-01-03-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Thursday-01-03-2018_TrafficForML_CICFlowMeter_00004.parquet
+Converting Thursday-15-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Thursday-15-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Thursday-22-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Thursday-22-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Wednesday-14-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Wednesday-14-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Wednesday-21-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00008.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00009.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00010.parquet
+  Saved parquet\Wednesday-21-02-2018_TrafficForML_CICFlowMeter_00011.parquet
+Converting Wednesday-28-02-2018_TrafficForML_CICFlowMeter...
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00001.parquet
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00002.parquet
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00003.parquet
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00004.parquet
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00005.parquet
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00006.parquet
+  Saved parquet\Wednesday-28-02-2018_TrafficForML_CICFlowMeter_00007.parquet
+
+Finished in 128.99 seconds
+
+Process finished with exit code 0
+```
