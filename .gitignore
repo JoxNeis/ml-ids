@@ -1,3 +1,14 @@
+# Custom gitignore
+
+# Parquet files
+
+parquet/
+parquet_no_inf/
+parquet-split/
+.venv/
+.idea/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -229,4 +240,3 @@ __marimo__/
 /dataSources.local.xml
 
 
-parquet/

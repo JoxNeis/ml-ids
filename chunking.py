@@ -23,6 +23,11 @@ def convert_csv(csv_file):
             f"{base_name}_{i:05d}.parquet"
         )
 
+        chunk = chunk[chunk["Label"] != "Label"]
+
+        if os.path.exists(output):
+            os.remove(output)
+
         chunk.to_parquet(
             output,
             engine="pyarrow",
