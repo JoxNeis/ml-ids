@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/parquet" />
       <excludeFolder url="file://$MODULE_DIR$/parquet-split" />
       <excludeFolder url="file://$MODULE_DIR$/parquet_no_inf" />
+      <excludeFolder url="file://$MODULE_DIR$/cse-cic-ids2018" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (ml-ids)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

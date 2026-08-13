@@ -5,6 +5,7 @@
 parquet/
 parquet_no_inf/
 parquet-split/
+cse-cic-ids2018/
 .venv/
 .idea/
 
