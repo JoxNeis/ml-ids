@@ -2,12 +2,14 @@
 
 # Parquet files
 
-parquet/
-parquet_no_inf/
-parquet-split/
 cse-cic-ids2018/
+parquet-raw-chunks/
+parquet-without-infinite-values/
+parquet-split/
+parquet-train-imputed/
 .venv/
 .idea/
+.vscode/
 
 
 # Byte-compiled / optimized / DLL files
