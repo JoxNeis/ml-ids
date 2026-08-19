@@ -7,6 +7,10 @@
       <excludeFolder url="file://$MODULE_DIR$/parquet-split" />
       <excludeFolder url="file://$MODULE_DIR$/parquet_no_inf" />
       <excludeFolder url="file://$MODULE_DIR$/cse-cic-ids2018" />
+      <excludeFolder url="file://$MODULE_DIR$/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/parquet-raw-chunks" />
+      <excludeFolder url="file://$MODULE_DIR$/parquet-train-imputed" />
+      <excludeFolder url="file://$MODULE_DIR$/parquet-without-infinite-values" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (ml-ids)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
