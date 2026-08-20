@@ -3,10 +3,12 @@
 # Parquet files
 
 cse-cic-ids2018/
-parquet-raw-chunks/
-parquet-without-infinite-values/
-parquet-split/
-parquet-train-imputed/
+raw/
+data-no-inf/
+data-split/
+label-split/
+data-imputed/
+data-scaled/
 .venv/
 .idea/
 .vscode/
