@@ -9,6 +9,7 @@ data-split/
 label-split/
 data-imputed/
 data-scaled/
+data-ipca/
 .venv/
 .idea/
 .vscode/
