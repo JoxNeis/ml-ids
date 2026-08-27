@@ -12,7 +12,7 @@ data-scaled/
 data-ipca/
 data-smote/
 .venv/
-.idea/
+# .idea/
 .vscode/
 
 
