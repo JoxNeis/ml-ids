@@ -3,10 +3,10 @@
 # Parquet files
 
 cse-cic-ids2018/
-raw/
+data-raw/
 data-no-inf/
-data-split/
-label-split/
+data-split-feature/
+data-split-label/
 data-imputed/
 data-scaled/
 data-ipca/
