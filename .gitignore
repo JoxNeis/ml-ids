@@ -14,7 +14,7 @@ data-smote/
 .venv/
 .idea/
 .vscode/
-
+KNN-k-13-w-uniform-m-manhattan.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
