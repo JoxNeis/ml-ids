@@ -16,7 +16,7 @@ prediction-result/
 .venv/
 .idea/
 .vscode/
-KNN-k-13-w-uniform-m-manhattan.pkl
+trained-model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
