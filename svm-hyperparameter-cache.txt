@@ -1,0 +1,36 @@
+SVM hyperparameter search over 9 combinations
+Preparing search subsamples...
+Subsampled 11,365,674 -> 49,992 rows across 15 classes
+Subsampled 3,246,589 -> 100,497 rows across 15 classes
+  search train 49,992 rows x 25 features, dev 100,497 rows
+[1/9] kernel=rbf     C=0.1    gamma=scale 
+    fitted in 17s (15,992 support vectors)                                                                    
+    f1_macro=0.3343 accuracy=0.8663 (predicted in 52s)                                                        
+    elapsed 69s eta 9m 13s
+[2/9] kernel=rbf     C=0.1    gamma=0.1   
+    fitted in 10s (9,237 support vectors)                                                                     
+    f1_macro=0.6846 accuracy=0.9652 (predicted in 28s)                                                        
+    elapsed 1m 47s eta 6m 17s
+[3/9] kernel=rbf     C=1.0    gamma=scale 
+    fitted in 13s (12,355 support vectors)                                                                    
+    f1_macro=0.6341 accuracy=0.9472 (predicted in 41s)                                                        
+    elapsed 2m 41s eta 5m 23s
+[4/9] kernel=rbf     C=1.0    gamma=0.1   
+    fitted in 7s (7,312 support vectors)                                                                      
+    f1_macro=0.7615 accuracy=0.9776 (predicted in 27s)                                                        
+    elapsed 3m 15s eta 4m 04s
+[5/9] kernel=rbf     C=10.0   gamma=scale 
+    fitted in 10s (8,580 support vectors)                                                                     
+    f1_macro=0.7162 accuracy=0.9645 (predicted in 30s)                                                        
+    elapsed 3m 56s eta 3m 09s
+[6/9] kernel=rbf     C=10.0   gamma=0.1   
+    fitted in 9s (6,854 support vectors)                                                                      
+    f1_macro=0.7702 accuracy=0.9788 (predicted in 24s)                                                        
+    elapsed 4m 29s eta 2m 14s
+[7/9] kernel=linear  C=0.1    gamma=scale 
+SVC with the linear kernel can be much faster using the specialized solver provided by LinearSVC. Consider switching to LinearSVC if tranining takes too long.
+    fitted in 84s (9,205 support vectors)                                                                     
+    f1_macro=0.6477 accuracy=0.9561 (predicted in 13s)                                                        
+    elapsed 6m 06s eta 1m 44s
+[8/9] kernel=linear  C=1.0    gamma=scale 
+  [8/9] fitting on 49,992 rows ... 24m 46s elapsed
