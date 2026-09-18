@@ -1,0 +1,12 @@
+{
+  "model": "XGB",
+  "noise_type": "clean",
+  "intensity": 0.0,
+  "scenario": "clean",
+  "accuracy": 0.98391853123612,
+  "precision_macro": 0.7814237003151726,
+  "recall_macro": 0.8684786577945719,
+  "f1_macro": 0.7806304394622512,
+  "rows": 3246594,
+  "scored_at": "2026-09-18 20:15:10"
+}

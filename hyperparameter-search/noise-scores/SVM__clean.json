@@ -1,0 +1,12 @@
+{
+  "model": "SVM",
+  "noise_type": "clean",
+  "intensity": 0.0,
+  "scenario": "clean",
+  "accuracy": 0.9792360855715251,
+  "precision_macro": 0.7352116236916857,
+  "recall_macro": 0.7860736357948533,
+  "f1_macro": 0.7008783006195285,
+  "rows": 3246594,
+  "scored_at": "2026-09-18 20:15:07"
+}

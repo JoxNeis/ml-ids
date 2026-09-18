@@ -1,0 +1,12 @@
+{
+  "model": "RF",
+  "noise_type": "clean",
+  "intensity": 0.0,
+  "scenario": "clean",
+  "accuracy": 0.9836055878868747,
+  "precision_macro": 0.7759587743085421,
+  "recall_macro": 0.8624372503341478,
+  "f1_macro": 0.7824626999297651,
+  "rows": 3246594,
+  "scored_at": "2026-09-18 20:15:08"
+}

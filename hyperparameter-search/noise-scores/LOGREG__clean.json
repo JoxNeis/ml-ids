@@ -1,0 +1,12 @@
+{
+  "model": "LOGREG",
+  "noise_type": "clean",
+  "intensity": 0.0,
+  "scenario": "clean",
+  "accuracy": 0.9633009239837196,
+  "precision_macro": 0.659458025286796,
+  "recall_macro": 0.6814533024147245,
+  "f1_macro": 0.6327953259715263,
+  "rows": 3246594,
+  "scored_at": "2026-09-18 20:15:08"
+}

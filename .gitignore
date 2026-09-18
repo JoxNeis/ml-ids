@@ -11,6 +11,7 @@ data-encoded-label/
 data-imputed/
 data-scaled/
 data-ipca/
+data-noisy/
 data-smote/
 prediction-result/
 .venv/
