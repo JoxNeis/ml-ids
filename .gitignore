@@ -12,6 +12,10 @@ data-imputed/
 data-scaled/
 data-ipca/
 data-noisy/
+data-noise/
+data-noise-imputed/
+data-noise-scaled/
+data-noise-ipca/
 data-smote/
 prediction-result/
 .venv/
